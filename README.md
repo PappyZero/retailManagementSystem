@@ -1,8 +1,8 @@
-Entity Relationships
+## Entity Relationships
 
 Here's how these entities interact with each other:
 
-Customers:
+**Customers**:
 
 Purchase products
 
